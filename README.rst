@@ -1,6 +1,5 @@
-Pycord
+Furcord
 ======
-
 .. image:: https://img.shields.io/discord/881207955029110855?label=discord&style=for-the-badge&logo=discord&color=5865F2&logoColor=white
    :target: https://pycord.dev/discord
    :alt: Discord server invite
@@ -17,11 +16,12 @@ Pycord
    :target: https://github.com/Pycord-Development/pycord/releases
    :alt: Latest release
 
-A fork of discord.py. Pycord is a modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python.
+A fork of py-cord, which is a fork of discord.py. Furcord is a modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python, with furry syntax.
 
 Key Features
 ------------
 
+- Furry syntax
 - Modern Pythonic API using ``async`` and ``await``.
 - Proper rate limit handling.
 - Optimised for both speed and memory usage.
